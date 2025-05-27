@@ -55,6 +55,7 @@ while not myQ.isEmpty():
     print(myQ.delete())
     
 OUTPUT
+
 ![image](https://github.com/user-attachments/assets/0239dfde-4d32-4e7c-9d25-3447736aeb7f)
 
 
