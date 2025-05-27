@@ -19,7 +19,7 @@ ALGORITHM
 
 PROGRAM
 
-# Queue simply works in FIFO
+
 class Queue:
     def __init__(self, size):
         self.items = [0] * size
@@ -62,8 +62,10 @@ print(a.items)
         
 
 OUTPUT
+
 ![image](https://github.com/user-attachments/assets/19f49fe2-1611-4743-9858-44ac793fdc11)
 
 
 RESULT
+
 Thus the Python program with a function to insert float values into a Circular Queue has been implemented and executed successfully.
