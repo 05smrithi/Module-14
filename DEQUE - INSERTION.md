@@ -30,7 +30,6 @@ print("The deque after appending at right is :")
 print(de)
 
 OUTPUT
-
 ![image](https://github.com/user-attachments/assets/d4246a74-4397-4642-980a-59712aa11cf8)
 
 
